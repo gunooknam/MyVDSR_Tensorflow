@@ -1,0 +1,7 @@
+./data
+./logs
+./pnsr
+./checkpoints
+./idea
+./__pycache__
+./venv
